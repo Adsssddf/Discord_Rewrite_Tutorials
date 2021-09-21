@@ -1,7 +1,3 @@
-"""
-This is compressed into one file.
-"""
-
 import asyncio
 import youtube_dl
 import pafy
